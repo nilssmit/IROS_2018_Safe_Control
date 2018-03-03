@@ -8,10 +8,8 @@ The three scripts in the main folder can each be run independently as desired.
 
 ### Prerequisites
 
-```
-[spotless](https://github.com/spot-toolbox/spotless)
-```
+The [spotless](https://github.com/spot-toolbox/spotless) toolbox.
 
 ## Authors
 
-* **Nils Smit-Anseeuw** - [ROAHM lab](http://www.roahmlab.com/)
+**Nils Smit-Anseeuw** - [ROAHM lab](http://www.roahmlab.com/)
